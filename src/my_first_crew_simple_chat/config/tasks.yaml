@@ -1,0 +1,9 @@
+---
+answer_user_chat_question:
+  description: Given a user-provided chat message ({sample_value}), research and return
+    factual, concise information about the subject or question asked. Do not summarize
+    the user request—provide a direct, informative answer relevant to the question
+    in markdown format.
+  expected_output: A markdown-formatted factual answer about the subject or question
+    in {sample_value}, not a summary of the question.
+  agent: chat_input_specialist
