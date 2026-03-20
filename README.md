@@ -52,4 +52,3 @@ For support, questions, or feedback regarding the ChatInputExtractionCrew Crew o
 - [Chat with our docs](https://chatg.pt/DWjSBZn)
 
 Let's create wonders together with the power and simplicity of crewAI.
->>>>>>> master
